@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-f3cdaf4ebe3c1937bf5d9e2936416ce87734d0a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cigin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e86bc67e513f3ab5f1f39ede09207bb5a8ec76ed.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-0aa09f7038c4bfb4b7d9d63cc2a1ce46bbc8ce10.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-726240db10e1a6b46fd3f3688a61954045a63975.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-b4bef45ef31bcd845bf374ff840fe0cd3d24e973.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-c4c1591dac167cb7352adbec9a56241d448f5269.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-bd41346573f932fa07906b39df91242724bf1a02.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-0dafb0113b8d1795af49ca489c7ab498087b4909.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-8f49936f6adb43be4783f9be886bbb36ddcb843d.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-dadc7ba22c6c2b996f13440975a113e876482671.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-efea8d3fc083eaf5aefb27c66e4c8f509c92a7c9.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-be6efde37bf3bacb589e4457d590f05d260fecdb.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-cd8b299db9f08ef35867ba3df54cc74aea664483.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-508c07ac6eeff1e05f757ae4ae613bfdd2a5f196.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-7094f3c38fc4f0880aaa70f9a6128fbadbf67a78.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-6c35e5feac36ccb00f569796536089b006bbc5fe.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-5a8ef049fcfa4ad663d036dc0a0b802f67c18a59.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-ee576f518fd9bc7d04a2d26b140d5c01b4414181.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-2b61cbdea4d1580366ba663ddc5ccec77902d76f.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-f8e27d4b5be79a57c4430b8669774232f1ed06c1.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-219113fa8447452ea76c511bca5195ee37afd091.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-379afc9c619eae5638a7200d47b4e05f2e53f1ea.jar" />
+    </item>
+    <item
+        jar="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\slimfit\Android\android-quickstart-adt\app\build\intermediates\pre-dexed\debug\classes-24a1be0fd90e7f3b3d3b71a7218cde19c98b74da.jar" />
+    </item>
+
+</items>
